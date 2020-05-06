@@ -2,7 +2,7 @@
 
 This is a test repo for learning Github!
 
-* bullet one
+* bullet 1
 * bullet two
 
 1. one
